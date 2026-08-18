@@ -11,4 +11,4 @@ public class Problem7_Tensdigit {
 		int sol = s / 10;
 		System.out.println("The output is : " + sol);
 	}
-}
+} 
