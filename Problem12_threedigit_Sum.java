@@ -11,7 +11,7 @@ public class Problem12_threedigit_Sum {
         int hundreds = num / 100;
         int tens = (num / 10) % 10;
         int ones = num % 10;
-
+        
         int sum = hundreds + tens + ones;
 
         System.out.println("Sum of digits = " + sum);
