@@ -16,6 +16,6 @@ public class Problem12_threedigit_Sum {
 
         System.out.println("Sum of digits = " + sum);
 
-        sc.close();
+        sc.close(); 
     }
 }
