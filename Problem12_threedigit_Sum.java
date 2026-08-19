@@ -7,7 +7,7 @@ public class Problem12_threedigit_Sum {
 
         System.out.print("Enter a three-digit number: ");
         int num = sc.nextInt();
-
+ 
         int hundreds = num / 100;
         int tens = (num / 10) % 10;
         int ones = num % 10;
