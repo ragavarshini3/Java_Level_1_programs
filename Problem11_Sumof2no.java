@@ -7,7 +7,7 @@ public class Problem11_Sumof2no {
 
         System.out.print("Enter a two-digit number: ");
         int num = sc.nextInt();
-
+ 
         int tens = num / 10;
         int ones = num % 10;
 
