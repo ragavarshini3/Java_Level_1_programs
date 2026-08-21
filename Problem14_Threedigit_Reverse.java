@@ -13,4 +13,4 @@ public class Problem14_Threedigit_Reverse {
         int sol = ones * 100 + tens*10 + hundreds;
         System.out.println("The output is :" + sol);
 	}
-}
+} 
