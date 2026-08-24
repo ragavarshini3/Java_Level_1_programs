@@ -14,7 +14,7 @@ public class Problem16_reverse_lasttwodigit {
 		int ones = num % 10;
 		
 		int ans = hundreds * 1000 + thousands *100 + tens *10+ ones;
-		 
+		
 		System.out.println("The output is:" + ans);
 		
 	}
