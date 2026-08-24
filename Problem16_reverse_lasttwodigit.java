@@ -11,7 +11,7 @@ public class Problem16_reverse_lasttwodigit {
 		int thousands = (num / 1000) % 100;
 		int hundreds = (num / 100) % 10;
 		int tens = (num / 10) % 10;
-		int ones = num % 10;
+		int ones = num % 10; 
 		
 		int ans = hundreds * 1000 + thousands *100 + tens *10+ ones;
 		
