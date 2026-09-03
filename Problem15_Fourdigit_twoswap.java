@@ -15,4 +15,4 @@ public class Problem15_Fourdigit_twoswap {
 		System.out.println("The output is:" + ans);
 		 
 	}
-} 
+}  
