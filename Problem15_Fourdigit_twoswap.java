@@ -13,6 +13,6 @@ public class Problem15_Fourdigit_twoswap {
 		
         int ans = thousands * 1000 + hundreds * 100 + ones * 10 + tens;
 		System.out.println("The output is:" + ans);
-		
+		 
 	}
 }
