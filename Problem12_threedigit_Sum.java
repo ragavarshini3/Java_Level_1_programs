@@ -18,4 +18,4 @@ public class Problem12_threedigit_Sum {
 
         sc.close(); 
     }
-}
+} 
