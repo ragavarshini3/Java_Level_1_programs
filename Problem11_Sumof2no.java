@@ -12,7 +12,7 @@ public class Problem11_Sumof2no {
         int ones = num % 10;
 
         int sum = tens + ones;
-
+ 
         System.out.println("Sum of digits = " + sum);
         }
 }
