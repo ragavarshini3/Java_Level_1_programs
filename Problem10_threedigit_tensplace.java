@@ -10,3 +10,4 @@ public class Problem10_threedigit_tensplace {
 		System.out.println("The output is : " + ans);
 	}
 }
+
