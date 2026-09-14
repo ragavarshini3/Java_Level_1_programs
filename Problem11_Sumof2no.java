@@ -14,5 +14,5 @@ public class Problem11_Sumof2no {
         int sum = tens + ones;
  
         System.out.println("Sum of digits = " + sum);
-        }
+    }
 }
